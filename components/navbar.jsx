@@ -18,13 +18,13 @@ const Navbar = () => {
             <Image 
               src="/logo.png" // Update with your actual logo path
               alt="Kernel Greens Logo"
-              width={30} // Adjust width as needed
-              height={15} // Adjust height as needed
+              width={100} // Adjust width as needed
+              height={50} // Adjust height as needed
             />
           </Link>
-          <span className="text-sm text-gray-100 tracking-wider font-semibold">
+          {/* <span className="text-sm text-gray-100 tracking-wider font-semibold">
             BN2786979
-          </span>
+          </span> */}
         </div>
 
         {/* Navigation Links */}
