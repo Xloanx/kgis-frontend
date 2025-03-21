@@ -14,7 +14,7 @@ const Footer = () => {
     >
       <p>&copy; {new Date().getFullYear()} Kernel Greens Integrated Services. All Rights Reserved.</p>
       <p className="mt-2">
-        Experience a flawed service? Report to  <Link href="/resolvo" className="text-accent font-semibold hover:underline">Resolvo</Link>
+        Experience a flawed service? Report to  <Link href="https://resolvo.vercel.app" className="text-accent font-semibold hover:underline">Resolvo</Link>
       </p>
     </motion.footer>
   );
