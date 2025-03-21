@@ -25,7 +25,7 @@ const ServiceDetails = () => {
           transition={{ duration: 0.5 }}
           className="flex flex-col items-center text-center"
         >
-          <p className="text-gray-600 text-lg">Details of projects for this service are yet to be added.</p>
+          <p className="text-gray-600 text-lg mt-36">Details of projects for this service are yet to be added.</p>
           <Link href="/services">
             <motion.button 
               whileHover={{ scale: 1.05 }} 
