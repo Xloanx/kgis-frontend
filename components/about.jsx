@@ -26,7 +26,7 @@ const About = () => {
           whileInView={{ opacity: 1 }}
           transition={{ duration: 1, delay: 0.5 }}
         >
-          Founded by passionate technologists, Kernel Greens is committed to 
+          Founded by passionate engineers, Kernel Greens is committed to 
           delivering cutting-edge solutions that empower businesses. 
           We specialize in software development, IT support, and cloud operations, 
           ensuring that your digital initiatives thrive. <br />

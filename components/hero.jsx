@@ -16,7 +16,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1.2 }}
           >
-            Re-Enginneering Innovation, Driving Excellence
+            Re-Engineering Innovation, Driving Excellence
           </motion.h1>
           <motion.p 
             className="text-lg max-w-2xl"
