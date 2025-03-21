@@ -3,7 +3,7 @@ export const services = [
     sid: "software-development",
     title: "Software Development", 
     shortDescription: "Bespoke web & mobile solutions.", 
-    longDescription: "We build scalable, high-performance web and mobile applications tailored to your business needs using modern technologies like Next.js, React Native, and FastAPI.",
+    longDescription: "We build scalable, high-performance web and mobile applications tailored to your business needs using modern technologies and stacks.",
     openSourceOption: 'true'
   },
   { 
@@ -13,6 +13,14 @@ export const services = [
     longDescription: "Our round-the-clock IT support services ensure smooth business operations, with proactive troubleshooting and security monitoring.",
     openSourceOption: 'false'
   },
+  { 
+    "sid": "training-development",
+    "title": "Workforce Training & Development Solutions", 
+    "shortDescription": "Empowering skills for a competitive future.", 
+    "longDescription": "Providing innovative and effective training solutions, including corporate learning programs and skill development workshops to enhance workforce capabilities.",
+    "openSourceOption": "false"
+  },
+
   { 
     sid: "cloud-operations",
     title: "Cloud Operations", 
