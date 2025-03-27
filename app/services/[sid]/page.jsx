@@ -7,6 +7,12 @@ import Link from "next/link";
 import { ProjectCarousel } from "@/components/project-carousel";
 import { motion } from "framer-motion"; // For smooth animations
 
+
+export const metadata = {
+  title: "Projects",
+  description: "Created by Kernel Greens Integrated Services",
+};
+
 const ServiceDetails = () => {
   const { sid } = useParams(); // Correctly extract service ID
   const [filteredProjects, setFilteredProjects] = useState([]);
