@@ -7,12 +7,12 @@ export const services = [
     openSourceOption: 'true'
   },
   { 
-    sid: "it-support",
-    title: "IT Support", 
-    shortDescription: "Seamless technology operations.", 
-    longDescription: "Our round-the-clock IT support services ensure smooth business operations, with proactive troubleshooting and security monitoring.",
-    openSourceOption: 'false'
-  },
+    "sid": "it-support",
+    "title": "IT Support & Sales", 
+    "shortDescription": "Reliable IT solutions and expert Tech sales.", 
+    "longDescription": "We provide round-the-clock IT support and expert tech sales, ensuring seamless operations, security, and the right technology solutions for your business.",  
+    "openSourceOption": "false"
+},
   { 
     "sid": "training-development",
     "title": "Workforce Training & Development Solutions", 
