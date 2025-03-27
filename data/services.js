@@ -7,18 +7,18 @@ export const services = [
     openSourceOption: 'true'
   },
   { 
-    "sid": "it-support",
-    "title": "IT Support & Sales", 
-    "shortDescription": "Reliable IT solutions and expert Tech sales.", 
-    "longDescription": "We provide round-the-clock IT support and expert tech sales, ensuring seamless operations, security, and the right technology solutions for your business.",  
-    "openSourceOption": "false"
+    sid: "it-support",
+    title: "IT Support & Sales", 
+    shortDescription: "Reliable IT solutions and expert Tech sales.", 
+    longDescription: "We provide round-the-clock IT support and expert tech sales, ensuring seamless operations, security, and the right technology solutions for your business.",  
+    openSourceOption: "false"
 },
   { 
-    "sid": "training-development",
-    "title": "Workforce Training & Development Solutions", 
-    "shortDescription": "Empowering skills for a competitive future.", 
-    "longDescription": "Providing innovative and effective training solutions, including corporate learning programs and skill development workshops to enhance workforce capabilities.",
-    "openSourceOption": "false"
+    sid: "training-development",
+    title: "Workforce Training & Development Solutions", 
+    shortDescription: "Empowering skills for a competitive future.", 
+    longDescription: "Providing innovative and effective training solutions, including corporate learning programs and skill development workshops to enhance workforce capabilities.",
+    openSourceOption: "false"
   },
 
   { 
